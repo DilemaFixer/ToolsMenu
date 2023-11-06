@@ -1,5 +1,19 @@
 {
-   "name": "com.Dilemma.ToolsMeny"
-   "version": "0.0.1-preview.1"
-   "displayName": "ToolsMenu"
+  "name": "com.dekkusudev.toolsmenu",
+  "version": "1.2.3",
+  "displayName": "Tools Menu",
+  "description": "This is an test package",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
 }
