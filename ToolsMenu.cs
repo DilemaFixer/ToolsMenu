@@ -11,7 +11,7 @@ namespace Dilemma
         {
             Directory.CreateDirectory(Path.Combine(Application.dataPath, "_Project"));
             AssetDatabase.Refresh();
-            Dir("_Project", "Source", "[1]Resources", "[2]Unity Assets", "[3]Temporary");
+            Dir("_Project", "[0]Source", "[1]Resources", "[2]Unity Assets", "[3]Temporary");
             AssetDatabase.Refresh();
             Dir(@"_Project\[1]Resources", "Prefabs", "Scenes", "Models", "Textures");
             AssetDatabase.Refresh();
